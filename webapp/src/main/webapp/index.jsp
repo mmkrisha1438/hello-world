@@ -11,7 +11,7 @@ div {text-align: center;}
 
 <h1>Welcome to simple devops pipline</h1>
 <p>demo by Malik.</p>
-<div>DOCKER CONTAINERS</div>
+<div>Final version before DOCKER CONTAINERS</div>
 
 </body>
 </html>
