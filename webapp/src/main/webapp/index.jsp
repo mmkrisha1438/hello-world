@@ -10,8 +10,8 @@ div {text-align: center;}
 <body>
 
 <h1>Welcome to simple devops pipline</h1>
-<p>demo by Malik.</p>
-<div>Final version before DOCKER CONTAINERS</div>
+<p>demo by Aiden.</p>
+
 
 </body>
 </html>
