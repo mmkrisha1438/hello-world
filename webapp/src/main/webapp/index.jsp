@@ -9,8 +9,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1>Welcome to simple devops pipline</h1>
-<p>Finally got this working so happy to see this working now</p>
+<h1>Welcome to Malik simple deveop project</h1>
+<p>How you like this?</p>
 
 
 </body>
