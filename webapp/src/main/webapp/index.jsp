@@ -10,7 +10,7 @@ div {text-align: center;}
 <body>
 
 <h1>Welcome to simple devops pipline</h1>
-<p>demo by Aiden Manchanayaja</p>
+<p>Finally got this working so happy to see this working now</p>
 
 
 </body>
